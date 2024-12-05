@@ -38,5 +38,7 @@ This project was inspired and developed based on the version of ChatGPT shown in
  - Delete a single conversation
  - Delete all conversations
  - Fully responsive design
+
+ 
 These features aim to replicate and enhance the user experience similar to ChatGPT, with a focus on usability and accessibility across different devices.
 
