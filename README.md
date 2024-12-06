@@ -32,6 +32,7 @@ Run the following command in your terminal:
 
 ```bash
 npm run cypress:open
+```
 
 After executing the command, the Cypress Test Runner will open.
 
